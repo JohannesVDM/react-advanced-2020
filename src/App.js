@@ -1,5 +1,6 @@
 import React from 'react';
-import Setup from './tutorial/1-useState/setup/3-useState-array';
+import Setup from './tutorial/2-useEffect/setup/1-useEffect-basics';
+import Final from './tutorial/2-useEffect/final/1-useEffect-basics';
 
 function App() {
   return (
@@ -7,7 +8,7 @@ function App() {
       <Setup />
       {/* <Final /> */}
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
